@@ -3,7 +3,7 @@ S H Martial Arts & Self Defense Academy - Static Website
 Contents:
 - index.html
 - styles.css
-- <img src="images/coach.jpg">
+- <img src="images/coach.jpg" alt="Coach Abdul Wajid">
 - gallery1.jpg .. gallery4.jpg (placeholders)
 
 How to use:
