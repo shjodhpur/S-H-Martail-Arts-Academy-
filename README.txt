@@ -3,7 +3,7 @@ S H Martial Arts & Self Defense Academy - Static Website
 Contents:
 - index.html
 - styles.css
-- coach.jpg (placeholder)
+- <img src="images/coach.jpg">
 - gallery1.jpg .. gallery4.jpg (placeholders)
 
 How to use:
